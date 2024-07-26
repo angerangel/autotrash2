@@ -4,6 +4,7 @@
 user_directories=$(ls -d /home/*/)
 
 # Set the target folder
+#this is the typical postion:
 target_folder=".local/share/Trash/files/"
 
 # Set the desired total size in bytes (1 GB = 1,073,741,824 bytes)
